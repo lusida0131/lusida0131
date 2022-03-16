@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Backend developer from Korea</h3>
 
 ## 🙋‍♂️ I am
- #### Spring, JSP/Servlet 기반 Back-End 개발이 가능한 주니어 개발자 박현성입니다.<br> 저는 가성비 소프트웨어 개발자입니다.
- > 가성비는 가치와 같이 성장에 비중을 둔 개발자입니다.
+ #### Spring, JSP/Servlet 기반 Back-End 개발이 가능한 주니어 개발자 박현성입니다.<br>
+ >
 
 ## Projects
 - ✈️ SkyLife / 팀 프로젝트 (2021.06.27 ~ 2021.07.20)<br> 웹 기반 항공 예매 서비스 

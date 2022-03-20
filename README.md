@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend developer from Korea</h3>
 
 ## 🙋‍♂️ I am
- #### Spring, JSP/Servlet 기반 Back-End 개발이 가능한 주니어 개발자 박현성입니다.<br>
+ #### Spring, Java 기반 Back-End 개발이 가능한 주니어 개발자 박현성입니다.<br>
  >
 
 ## Projects

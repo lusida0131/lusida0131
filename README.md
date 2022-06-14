@@ -10,7 +10,7 @@
 - 🏪 Cobye / 팀 프로젝트 (2021.07.21 ~ 2021.07.28)<br> 웹기반 코로나 감염자 수 정보 제공 서비스
 
 - 📫 How to reach me **ks12b9189@naver.com**
-
+- 📝 My Blog **https://lusida-coding.tistory.com/**
 
 ## 🎯 Languages
 ### Front-end 

@@ -35,5 +35,5 @@
 <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 </div>    
 
-## 💻 Github Stats
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=lusida0131&show_icons=true&locale=en" alt="lusida0131" width="50%"/><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lusida0131&show_icons=true&locale=en&layout=compact" alt="lusida0131" width="50%" height="195"/></div>
+<!-- ## 💻 Github Stats
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=lusida0131&show_icons=true&locale=en" alt="lusida0131" width="50%"/><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lusida0131&show_icons=true&locale=en&layout=compact" alt="lusida0131" width="50%" height="195"/></div> -->

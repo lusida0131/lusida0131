@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm 박현성</h1>
-<h3 align="center">A passionate Backend developer from Korea</h3>
+<h3 align="center">A passionate Backend developer And DBA from Korea</h3>
 
 ## 🙋‍♂️ I am
- #### Spring, Java 기반 Back-End 개발이 가능한 주니어 개발자 박현성입니다.<br>
+ #### Spring, Java 기반 Back-End 개발 경험과 DBA로 일하고 있는 주니어 개발자 박현성입니다.<br>
  >
 
 ## Projects
 - ✈️ SkyLife / 팀 프로젝트 (2021.06.27 ~ 2021.07.20)<br> 웹 기반 항공 예매 서비스 
 - 🏪 Cobye / 팀 프로젝트 (2021.07.21 ~ 2021.07.28)<br> 웹기반 코로나 감염자 수 정보 제공 서비스
 - ✈️ SkyLife_Transformation / 개인 프로젝트 (2022.05.31 ~ ing)<br> 기존 프로젝트 스프링 부트 마이그래이션 및 리펙토링
+-  
 
 - 📫 How to reach me **ks12b9189@naver.com**
 - 📝 My Blog **https://lusida-coding.tistory.com/**
